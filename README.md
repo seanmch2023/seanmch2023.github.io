@@ -1,2 +1,2 @@
-# seanmch2023.github.io
-# theme: jekyll-theme-slate
+# _Sean McHugh's Piano School of Music_
+theme: jekyll-theme-slate
