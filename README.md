@@ -1,4 +1,6 @@
 # _Sean McHugh's Piano School of Music_
+<h2> Home </h2>
+
 ###### Welcome to my Website!!!
 ### <a href="https://github.com/seanmch2023/Lessons" target="_blank">Lessons</a> <hr>
 ### <a href="https://github.com/seanmch2023/Grinds" target="_blank">Grinds</a> <hr>
