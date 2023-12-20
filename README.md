@@ -6,15 +6,3 @@
 ### <a href="https://github.com/seanmch2023/Grinds" target="_blank">Grinds</a> <hr>
 ### <a href="https://github.com/seanmch2023/Biography/tree/main" target="_blank">Biography</a> <hr>
 ### <a href="https://github.com/seanmch2023/Contact" target="_blank">Contact</a> <hr>
-![Honey](https://images.app.goo.gl/WAi5V8VVq4Ri9Tk16)
-
- Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text][Uploading pianopng…]()
-
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: 
