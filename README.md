@@ -86,14 +86,16 @@ alt="Cadenza First Place Performance" width="350" height="200" border="10" /></a
 <hr>
 
 
-
 <details> 
        <table>
    <tr>
     <th> <pre> - Castleknock Music Festival 2023, Blue Air, Madeline Dring
 </pre>
 </th>
-    <th><img src="https://github.com/seanmch2023/Images/blob/main/pianopng" data-canonical-src="https://github.com/seanmch2023/Images/blob/main/pianopng" width="250" height="300"></th>
+    <th><img src="https://github.com/seanmch2023/Images/blob/main/1703159124687.jpg" 
+alt="Castleknock Music Festival 2023" width="350" height="200" border="10" /></a> <br>
+        
+  [Castleknock Music Festival 2023](https://github.com/seanmch2023/Images/blob/main/VID-20231221-WA0012.mp4)
   </tr>
 </table>
 
