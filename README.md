@@ -1,7 +1,7 @@
 🎹 <h1> 🎵 _Sean McHugh's Piano School of Music_ 🎵 </h1>
 <h2> $\textcolor{yellow}{\textsf{Home}}$ </h2>
 
-Welcome to my Website!!! Maybe you want to learn piano?? Maybe you want to return to your piano studies?? Maybe you want to take your piano schools to the next level?? Well, I offer lessons at my address grace park road. I take students of all levels. I have studied music since the age of 6 and continued my musical studies through Junior Cycle, achieving Distinction (>90%). Students should be over the age of 5.
+Welcome to my Website!!! Maybe you want to learn piano?? Maybe you want to return to your piano studies?? Maybe you want to take your piano schools to the next level?? Well, I offer lessons at my address grace park road. I take students of all levels. I have studied music since the age of 6 and continued my musical studies through Junior Cycle, achieving Distinction (>90%). I completed every grade from Elementary, to Grade 1, to Grade 8, to Senior Certificate, in which i achieved a Distinction. Students should be over the age of 5.
 
 <details>
   <table>
