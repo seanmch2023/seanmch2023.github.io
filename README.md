@@ -7,8 +7,8 @@ Welcome to my Website!!! Maybe you want to learn piano?? Maybe you want to retur
   <table>
    <tr>
     <th> <pre>Lessons are provided everyday of the week. Book 30 minute to 45 minute 
-      sessions with me by sending me your preferred lesson times. Find my contact 
-      details in the 'More' tab in the top right corner of my webpage.</pre>
+      sessions with me by sending me your preferred lesson dates and times. Find my contact 
+      details in the 'Contact' tab or at the bottom corner of my webpage.</pre>
 </th>
     <th><img src="https://github.com/seanmch2023/Images/blob/main/pianopng" data-canonical-src="https://github.com/seanmch2023/Images/blob/main/pianopng" width="250" height="300"></th>
   </tr>
@@ -25,8 +25,8 @@ Welcome to my Website!!! Maybe you want to learn piano?? Maybe you want to retur
     <th> <pre>Book 30 minutes to 45 minutes sessions with me if you feel you need that 
       extra push to achieving that Distinction in the Junior Cycle Music Exam. Students 
       will cover every part of the JC Music course, including listenings, practicals, 
-      and music theory. Find my contact details in the 'More' tab in the top right 
-      corner of my webpage.
+      and music theory. Find my contact details in the 'Contact' tab or at the 
+      bottom corner of my webpage.
 </pre>
 </th>
     <th><img src="https://github.com/seanmch2023/Images/blob/main/pianopng" data-canonical-src="https://github.com/seanmch2023/Images/blob/main/pianopng" width="250" height="300"></th>
@@ -72,7 +72,11 @@ alt="Cadenza First Place Performance" width="350" height="200" border="10" /></a
 <details> 
        <table>
    <tr>
-    <th> <pre>My socials are linked below!
+    <th> <pre>Phone no. 085 235 1658[^1].
+
+Addres 158 Grace Park Road[^2].  
+
+Email seanmchughpianoschoolofmusic@gmail.com
 </pre>
 </th>
     <th><img src="https://github.com/seanmch2023/Images/blob/main/pianopng" data-canonical-src="https://github.com/seanmch2023/Images/blob/main/pianopng" width="250" height="300"></th>
@@ -113,8 +117,8 @@ alt="Castleknock Music Festival 2023" width="350" height="200" border="10" /></a
   </tr>
 </table>
 
-<pre></pre>Phone no. 088 888 8888[^1].
+<pre></pre>Phone no. 085 235 1658[^1].
 
-Address Purple Park[^2].  
+Addres 158 Grace Park Road[^2].  
 
 Email seanmchughpianoschoolofmusic@gmail.com[^3].</pre>
